@@ -265,4 +265,3 @@ references/full-video-framework.md
 ## License
 
 MIT License。详见 [LICENSE](LICENSE)。
-
